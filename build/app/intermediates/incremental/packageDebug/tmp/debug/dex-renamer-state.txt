@@ -1,0 +1,4 @@
+#Fri Mar 05 12:20:56 IST 2021
+base.0=D\:\\Office\\quiz_app_ii_example-master\\quiz_app_ii_example-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
